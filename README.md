@@ -1,2 +1,2 @@
-# clase80-v2alumnos
-clase 80 v2, meteoritos2
+# Rastreador de la EEI
+Código para la clase 79
